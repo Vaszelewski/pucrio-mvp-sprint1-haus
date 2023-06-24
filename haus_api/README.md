@@ -13,29 +13,35 @@ Requisitos:
 
 
 1 - Após clonar o repositório, é necessário ir ao diretório raiz, pelo terminal, para poder executar os comandos descritos abaixo:
+
 cd evertonMvp\haus_api
 
-2 - Criar Virtualenv
+2 - Instalar Virtualenv
+```
+$ pip install VirtualEnv
+```
+
+3 - Criar Virtualenv
 ```
 $ Virtualenv venv
 ```
 
-3 - Ativar venv
+4 - Ativar venv
 ```
 $ venv\scripts\activate
 ```
 
-4 - Instalar libs python
+5 - Instalar libs python
 ```
 (venv)$ pip install -r requirements.txt
 ```
 
-5 - Instalar Greenlet
+6 - Instalar Greenlet
 ```
 (venv)$ pip install greenlet
 ```
 
-6 - Executar API:
+7 - Executar API:
 
 ```
 (venv)$ flask run --host 0.0.0.0 --port 5000
