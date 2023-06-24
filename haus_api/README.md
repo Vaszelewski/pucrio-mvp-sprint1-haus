@@ -7,7 +7,7 @@ Backend do projeto HAUS: Um Sistema web de gerenciamento e catalogar coleções 
 ---
 ## Como executar 
 
-Requisito
+Requisitos:
 - Realizar a instalação das libs python listadas no `requirements.txt`.
 - É recomendado o uso de ambientes virtuais do tipo [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html).
 
