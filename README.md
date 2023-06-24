@@ -1,4 +1,3 @@
-# pucrio-mvp-sprint1-haus
 # HAUS - EVERTON VASZELEWSKI
 # MVP SPRINT 1 - Pós-Graduação em Engenharia de Software
 
