@@ -19,7 +19,7 @@ class ItemBuscaSchema(BaseModel):
     """ Define como deve ser a estrutura que representa a busca. Que será
         feita apenas com base no nome do item.
     """
-    codigoBarras: int = 495837505
+    codigoBarras: int = 375289362651
 
 
 class ListagemItemsSchema(BaseModel):
