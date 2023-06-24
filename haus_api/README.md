@@ -58,4 +58,4 @@ Após seguir todos os passos, abrir o link abaixo no bavegador para verificar o 
 - [http://localhost:5000/#/](http://localhost:5000/#/)
 
 Link para Documentação:
-- [http://127.0.0.1:5000/openapi/] (http://127.0.0.1:5000/openapi/)
+- [http://127.0.0.1:5000/openapi/]
