@@ -10,4 +10,5 @@ Projeto composto por duas partes:
 Abra os diretórios e siga as instruções conforme READ.ME.
 
 Data: 24.07.2023
+
 Everton Perez Vaszelewski
