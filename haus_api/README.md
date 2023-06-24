@@ -14,7 +14,7 @@ Requisitos:
 
 1 - Após clonar o repositório, é necessário ir ao diretório raiz, pelo terminal, para poder executar os comandos descritos abaixo:
 
-cd evertonMvp\haus_api
+cd pucrio-mvp-sprint1-haus-master\haus_api
 
 2 - Instalar Virtualenv
 ```
